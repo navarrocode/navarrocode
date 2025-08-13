@@ -31,10 +31,7 @@
 <img align="left" alt="HTML5" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="left" alt="CSS3" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img align="left" alt="JavaScript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-<img align="left" alt="XCode" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg">
-<img align="left" alt="AndroidStudio" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
 <img align="left" alt="Github" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 <img align="left" alt="Git" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img align="left" alt="Photoshop" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
 <img align="left" alt="CPP" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-<img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
