@@ -26,7 +26,7 @@
     - a creative and expressive individual confident in bringing my ideas to the discussion.
 
 ## Languages & Tools
-
+<img src="https://komarev.com/ghpvc/?username=tsukidan&style=for-the-badge&color=A8C1E9">
 <img align="left" alt="React" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 <img align="left" alt="HTML5" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="left" alt="CSS3" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
@@ -35,3 +35,4 @@
 <img align="left" alt="Git" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img align="left" alt="Photoshop" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
 <img align="left" alt="CPP" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+
