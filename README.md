@@ -1,10 +1,10 @@
-<img alt="Name" src="https://img.shields.io/badge/Daniel%20Navarro-A8C1E9?style=for-the-badge">
+<img alt="Name" src="https://img.shields.io/badge/Daniel%20Navarro-000000?style=for-the-badge">
 
 <img alt="Title" src="https://img.shields.io/badge/Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Student%20at%20Arizona%20State%20University-FFFFFF?style=for-the-badge">
 
-<a href="https://navarrocode.github.io/portfoliogit/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-A8C1E9?style=for-the-badge"></a>
-<a href="https://www.linkedin.com/in/angel-navarro-0b3b6a214/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-A8C1E9?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:dan%5Fnvrro@pm.me"><img alt="Email" src="https://img.shields.io/badge/dan_nvrro@pm.me-A8C1E9?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://navarrocode.github.io/portfoliogit/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/angel-navarro-0b3b6a214/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:dan%5Fnvrro@pm.me"><img alt="Email" src="https://img.shields.io/badge/dan_nvrro@pm.me-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <img align="center" alt="banner" src="https://i.imgur.com/tIwsta0.png">
 
