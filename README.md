@@ -3,7 +3,7 @@
  
 <a href="https://www.linkedin.com/in/angel-navarro-0b3b6a214/"> <img alt="LinkedIn" src="https://img.shields.io/badge/Daniel Navarro-A8C1E9?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/tsukidan_"><img alt="Twitter" src="https://img.shields.io/badge/@tsukidan_-A8C1E9?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="mailto:danielnavarro8797@gmail.com"><img alt="Email-Me" src="https://img.shields.io/badge/danielnavarro8797@gmail.com-A8C1E9?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:dan_nvrro@pm.me"><img alt="Email-Me" src="https://img.shields.io/badge/dan_nvrro@pm.me-A8C1E9?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## 💻  Hall of Fame
     - European Vacation Planner - C++ Desktop Program.
