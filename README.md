@@ -7,6 +7,7 @@
 <a href="mailto:dan%5Fnvrro@pm.me"><img alt="Email" src="https://img.shields.io/badge/dan_nvrro@pm.me-A8C1E9?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <img align="center" alt="banner" src="https://i.imgur.com/tIwsta0.png">
+
 ---
 
 ## About Me
