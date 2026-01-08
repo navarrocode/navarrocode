@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am a Full Stack Developer and Software Engineering student at Arizona State University pursuing a B.S. in Graphic Information Technology with a focus on Full-Stack Web Development. I enjoy building clean, responsive, and user-centered applications while maintaining organized, maintainable code.
+I am a Full Stack Developer and Website Engineer with a B.S. in Graphic Information Technology with a focus on Full-Stack Web Development. I enjoy building clean, responsive, and user-centered applications while maintaining organized, maintainable code.
 
 I have experience collaborating in team-based development environments, managing version control workflows, and deploying projects for live use. I am especially interested in problem solving, UI/UX design, and continuous learning. I am currently open to internships and junior or entry-level software engineering roles.
 
