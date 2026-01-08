@@ -37,9 +37,6 @@ I have experience collaborating in team-based development environments, managing
 ## Currently Working On
 
 ### Projects
-- **tsuki**  
-  A custom Discord CSS theme built using pure CSS, exploring visual customization, layout refinement, and clean UI styling.
-
 - **stocksync**  
   A planned C++ inventory management system intended to track products and sales efficiently, with a focus on organized data handling and maintainable logic. Planned to be built using Qt or a similar framework.
 
