@@ -20,6 +20,10 @@ I have experience collaborating in team-based development environments, managing
 
 ## Hall of Fame Projects
 
+- **Medibay**  
+  A secure patient portal proof of concept that centralizes health records, prescriptions, and notes in one place. Built with React and Firebase authentication, with a focus on clean UI, usability, and privacy.  
+  Live demo: https://medibay-jade.vercel.app
+
 - **SupplyPost**  
   A full-stack e-commerce site developed using HTML, CSS, and JavaScript. I led version control management, authored project documentation, and designed the mobile-first homepage with an emphasis on responsive layouts and usability.  
   Live demo: https://operation-base-camp.vercel.app
@@ -28,9 +32,6 @@ I have experience collaborating in team-based development environments, managing
   A web dashboard for managing Nintendo Switch-related content, built with HTML, CSS, JavaScript, an Express server, and MongoDB. Focused on structured data handling, clear UI organization, and streamlined user workflows.  
   Live demo: https://myswitchlifedashboard.vercel.app
 
-- **simplitax**  
-  A responsive sales tax calculator and receipt generator built with HTML, CSS, and JavaScript, designed to clearly display user-entered items while ensuring accurate calculations and intuitive interaction.  
-  Live demo: https://navarrocode.github.io/simplitax/
 
 ---
 
